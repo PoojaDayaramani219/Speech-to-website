@@ -11,7 +11,7 @@ Windows: Download the version for your laptop via https://www.python.org/downloa
 # Notes
 In your preferred editor, make sure indentation is set to "4 spaces". This code has been implemented in jupyter notebook.
 
-# Install the following python packages to successful implementation
+# Install the following python packages for successful implementation
 --> Make sure you have Python and pip installed on your system before running the below commands.
 
 pip install pyttsx3 - It is a text-to-speech conversion library.
